@@ -1,0 +1,7 @@
+用户名: "name==username"
+密码: "name==password"
+登录按钮: "class==loginButton"
+登录用户名: 'xpath==//*[@id="app"]/div[1]/div[3]/div/div[1]/div[3]/div[4]/div'
+退出登录下拉: 'xpath==//*[@id="app"]/div[1]/div[3]/div/div[1]/div[3]/div[5]/div/i'
+退出登录按钮: "xpath==//*[contains(text(),'退出登录')]"
+弹窗确定按钮: "xpath==//*[contains(text(),'确定')]"
